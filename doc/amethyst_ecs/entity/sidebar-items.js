@@ -1,0 +1,1 @@
+initSidebarItems({"type":[["Entity","An unsigned 64-bit handle to an entity."]]});

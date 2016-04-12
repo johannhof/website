@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["SimBuilder","Consuming builder for easily constructing a new simulations."],["Simulation",""],["World","A collection of entities and their respective components."]],"trait":[["Processor","The trait implemented by all processors."]],"type":[["Entity",""],["ProcessorResult",""]]});

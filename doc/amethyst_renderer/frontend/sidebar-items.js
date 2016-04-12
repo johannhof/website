@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Renderer","A simple renderer frontend. Accepts a `Pipeline` on startup, and parses `Frame`s."]]});

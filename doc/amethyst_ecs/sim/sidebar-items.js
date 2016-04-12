@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["SimBuilder","Consuming builder for easily constructing a new simulations."],["Simulation",""]]});

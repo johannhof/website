@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["World","A collection of entities and their respective components."]]});
